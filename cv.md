@@ -74,3 +74,27 @@ Completed projects (landings):
 [Cleaning company Chistyla](https://chistylya.ru/) | [Github](https://github.com/DenKuznets/cleaning-chistulya.loc)
 
 [Municipal baths site](https://mup-komfort.ru/) | [Github](https://github.com/DenKuznets/myp-comfort)
+
+---
+
+## Education
+
+* [w3cschool](https://www.w3schools.com/) html, css and js tutorials
+
+<img src="w3schools.png" alt="achievments" width="300"/>
+
+* [scrimba](https://scrimba.com/) react crouse. Final solo [project](https://denkuznets.github.io/quizzical-app/) featured state management, usage of rest api and styling with styled-components library.
+
+<img src="quizz.png" alt="achievments" width="300"/>
+
+* Freecodecamp Responsive Wev Design Course
+
+<img src="fccsert.png" alt="achievments" width="300"/>
+
+* [The odin project](https://www.theodinproject.com/) has a great frontend starter course despite being a fullstack developer dedicated site. Foundations course included solo calculator [project](https://denkuznets.github.io/calculator-odin/) 
+
+<img src="odin-calc.png" alt="achievments" width="300"/>
+
+* I keep up with all new frontend tips and tricks by following these amazing [frontend](https://roadmap.sh/frontend) and [react](https://roadmap.sh/react) roadmaps. You can even check my progress in [frontend](https://roadmap.sh/frontend?s=646af642cb6301e67f87c307) and [react](https://roadmap.sh/react?s=646af642cb6301e67f87c307) there.
+
+* frontendmentor
