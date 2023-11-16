@@ -6,6 +6,8 @@
 
 ### Frontend-developer
 
+<img src="avatar-small.png" alt="avatar" width="200"/>
+
 ---
 
 ## Contact information
@@ -51,7 +53,7 @@ function isFlush(cards) {
   for(let i = 0; i < cards.length - 1; i++){
     if(cards[i][cards[i].length - 1] !== cards[i + 1][cards[i + 1].length - 1]) return false;
   }
-  
+
   return true ;
 }
 ```
