@@ -109,3 +109,10 @@ Completed projects (landings):
 I keep up with all new trends in frontend by following these great [frontend](https://roadmap.sh/frontend) and [react](https://roadmap.sh/react) roadmaps. You can even check my progress there - [frontend](https://roadmap.sh/frontend?s=646af642cb6301e67f87c307), [react](https://roadmap.sh/react?s=646af642cb6301e67f87c307).
 
 ---
+
+Languages:
+* English B2
+
+<img src="efset.jpg" alt="achievments" width="200"/>
+
+* Russian - Native
