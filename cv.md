@@ -65,6 +65,7 @@ function isFlush(cards) {
 ## Work Experience
 
 Part time job in a web studio [Alex Media ](https://alex-media.ru/)
+
 Completed projects (landings):
 
 [Tula energo service](https://tul-energo-service.ru/) | [Github](https://github.com/DenKuznets/tes.loc)
