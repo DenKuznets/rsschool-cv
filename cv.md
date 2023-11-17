@@ -6,7 +6,7 @@
 
 ### Frontend-developer
 
-<img src="avatar-small.png" alt="avatar" width="200"/>
+<img src="./images/avatar-small.png" alt="avatar" width="200"/>
 
 ---
 
@@ -84,23 +84,23 @@ Completed projects (landings):
 
 * [w3cschool](https://www.w3schools.com/) html, css and js tutorials
 
-<img src="w3schools.png" alt="achievments" width="300"/>
+<img src="./images/w3schools.png" alt="achievments" width="300"/>
 
 * Freecodecamp Responsive Wev Design Course
 
-<img src="fccsert.png" alt="achievments" width="300"/>
+<img src="./images/fccsert.png" alt="achievments" width="300"/>
 
 * [The odin project](https://www.theodinproject.com/) has a great frontend starter course despite being a fullstack developer dedicated site. The final project of the Foundation course was a [calculator](https://www.theodinproject.com/lessons/foundations-calculator). I designed it myself and tried to replicate the basic functionality and edge use cases of the Citizen desktop calculator using my own logic - [project demo](https://denkuznets.github.io/calculator-odin/). 
 
-<img src="odin-calc.png" alt="achievments" width="300"/>
+<img src="./images/odin-calc.png" alt="achievments" width="300"/>
 
 * [Scrimba.com](https://scrimba.com/) is an amazing resource for learning and Bob Ziroll is a god tier teacher. It's been a pleasure to follow his react course and I'm really glad he's made it free for everyone. Final [project](https://denkuznets.github.io/quizzical-app/) featured state management and usage of rest api.
 
-<img src="quizz.png" alt="achievments" width="300"/>
+<img src="./images/quizz.png" alt="achievments" width="300"/>
 
 * [Frontendmentor](https://www.frontendmentor.io/) has been an outstanding source of interesting and fun frontend challenges. Whenever I need a nicely designed training dummy to try out a skill I just learned, I always go to this site.
 
-<img src="fe-mentor.png" alt="achievments" width="500"/>
+<img src="./images/fe-mentor.png" alt="achievments" width="500"/>
 
 
 * These were just the highlights of my learning journey, and I visited many more interesting resources, watched dozens of hours of YouTube videos, and read many books. Some of them I would like to mention here:
@@ -116,6 +116,6 @@ I keep up with all new trends in frontend by following these great [frontend](ht
 Languages:
 * English B2
 
-<img src="efset.jpg" alt="achievments" width="200"/>
+<img src="./images/efset.jpg" alt="achievments" width="200"/>
 
 * Russian - Native
