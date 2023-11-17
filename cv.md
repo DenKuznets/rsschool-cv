@@ -68,8 +68,6 @@ Frontend developer job in a web studio [Alex Media ](https://alex-media.ru/)
 
 Completed projects (landings):
 
-[Tula energo service](https://tul-energo-service.ru/) | [Github](https://github.com/DenKuznets/tes.loc)
-
 [Techauto](https://avtodom-techauto.ru/) | [Github](https://github.com/DenKuznets/teh-avto.loc)
 
 [BMK](https://bmk78.ru/) | [Github](https://github.com/DenKuznets/bmk-new.loc)
