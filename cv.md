@@ -34,7 +34,7 @@ I've been doing web development since 2022. I never stop learning new technologi
 
 ```REACT```  ```NEXTJS``` ```TAILWIND``` ```TS``` ```MUI``` ```REDUX``` ```REST``` ```UNIT TESTING``` ```STORYBOOK``` ```STYLED-COMPONENTS``` ```HTML CSS JS```
 
-<sup>(for every listed skill here i have at least one project demo in my portfolio)</sup>
+<sup>(for every listed skill here I have at least one project demo in my portfolio)</sup>
 
 ---
 
@@ -83,18 +83,29 @@ Completed projects (landings):
 
 <img src="w3schools.png" alt="achievments" width="300"/>
 
-* [scrimba](https://scrimba.com/) react crouse. Final solo [project](https://denkuznets.github.io/quizzical-app/) featured state management, usage of rest api and styling with styled-components library.
-
-<img src="quizz.png" alt="achievments" width="300"/>
-
 * Freecodecamp Responsive Wev Design Course
 
 <img src="fccsert.png" alt="achievments" width="300"/>
 
-* [The odin project](https://www.theodinproject.com/) has a great frontend starter course despite being a fullstack developer dedicated site. Foundations course included solo calculator [project](https://denkuznets.github.io/calculator-odin/) 
+* [The odin project](https://www.theodinproject.com/) has a great frontend starter course despite being a fullstack developer dedicated site. The final project of the Foundation course was a [calculator](https://www.theodinproject.com/lessons/foundations-calculator). I designed it myself and tried to replicate the basic functionality and edge use cases of the Citizen desktop calculator using my own logic - [project demo](https://denkuznets.github.io/calculator-odin/). 
 
 <img src="odin-calc.png" alt="achievments" width="300"/>
 
-* I keep up with all new frontend tips and tricks by following these amazing [frontend](https://roadmap.sh/frontend) and [react](https://roadmap.sh/react) roadmaps. You can even check my progress in [frontend](https://roadmap.sh/frontend?s=646af642cb6301e67f87c307) and [react](https://roadmap.sh/react?s=646af642cb6301e67f87c307) there.
+* [Scrimba.com](https://scrimba.com/) is an amazing resource for learning and Bob Ziroll is a god tier teacher. It's been a pleasure to follow his react course and I'm really glad he's made it free for everyone. Final [project](https://denkuznets.github.io/quizzical-app/) featured state management and usage of rest api.
 
-* frontendmentor
+<img src="quizz.png" alt="achievments" width="300"/>
+
+* [Frontendmentor](https://www.frontendmentor.io/) has been an outstanding source of interesting and fun frontend challenges. Whenever I need a nicely designed training dummy to try out a skill I just learned, I always go to this site.
+
+<img src="fe-mentor.png" alt="achievments" width="500"/>
+
+
+* These were just the highlights of my learning journey, and I visited many more interesting resources, watched dozens of hours of YouTube videos, and read many books. Some of them I would like to mention here:
+
+    Youtube channels: [Brad Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA), [Codevolution](https://www.youtube.com/@Codevolution), [Wes Bos](https://www.youtube.com/@WesBos), [John Smilga's Coding Addict](https://www.youtube.com/c/codingaddict)
+
+    Books: [Head First book series](https://en.wikipedia.org/wiki/Head_First_(book_series)), [Test Driven Development by Kent Beck](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530), [Think Like a Programmer by Anton Spraul](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
+
+I keep up with all new trends in frontend by following these great [frontend](https://roadmap.sh/frontend) and [react](https://roadmap.sh/react) roadmaps. You can even check my progress there - [frontend](https://roadmap.sh/frontend?s=646af642cb6301e67f87c307), [react](https://roadmap.sh/react?s=646af642cb6301e67f87c307).
+
+---
