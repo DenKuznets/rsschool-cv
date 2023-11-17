@@ -28,7 +28,7 @@ Discord: DenKuznets (@DenKuznets)
 
 ## About me
 
-I've been doing web development since 2022. I keep studying new technologies and follow the latest frontend innovations. My knowledge of English allows me to receive information first-hand without waiting for translation. I have some experience in commercial development. I worked in a web studio collaborating with a backend programmer and web designer and now know how to work in a team, meet a deadline while keeping all the important parts of a site pixel perfect to Figma design.
+I've been doing web development since 2022. I keep learning new technologies and follow the latest frontend innovations. My knowledge of English allows me to receive information first-hand without waiting for translation. I have some experience in commercial development. I worked in a web studio collaborating with a backend programmer and web designer and now know how to work in a team, meet a deadline while keeping all the important parts of a site pixel perfect to Figma design.
 
 ---
 
