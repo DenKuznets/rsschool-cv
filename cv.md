@@ -113,7 +113,7 @@ I keep up with all new trends in frontend by following these great [frontend](ht
 
 ---
 
-## Languages:
+## Languages
 * English B2
 
 <img src="./images/efset.jpg" alt="achievments" width="200"/>
